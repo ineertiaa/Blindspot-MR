@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Blindspot-MR.slnx",
+    "dotnet.defaultSolution": "MR-Playground.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
